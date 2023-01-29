@@ -50,11 +50,11 @@ Read this section to learn how to use the **search function** to list your tests
 
 The **Device test repository** panel displays tests in an alphabetical, searchable list for easy viewing and management. To find specific tests, use the **search function** located on top of the panel.
 
-### Using the search function
+### Using search function
 
 To search the list of configured tests, start typing your entry into the search field. The matching items will appear in the list.
 
-> Note
+> **Note**
 > If you choose a test from the filtered list and then clear the search field, your selection will still be visible in the complete list view. Likewise, if you use the **Select all** checkbox in the full list view and then filter the list using the search, your selection will be reflected in the filtered list view.
 
 ## Viewing test configuration
